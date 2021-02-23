@@ -2,7 +2,7 @@
  * @Autor: GeekMzy
  * @Date: 2021-02-20 06:59:06
  * @LastEditors: GeekMzy
- * @LastEditTime: 2021-02-20 07:02:13
+ * @LastEditTime: 2021-02-23 08:45:22
  * @FilePath: /js-base/src/promise.js
  */
 
@@ -23,5 +23,5 @@ console.log(4);
 setTimeout(function () {
   console.log(6);
 });
-
+//面试啦
 //执行结果: 124536
